@@ -29,7 +29,3 @@ https://www.kaggle.com/datasets/adammaus/predicting-churn-for-bank-customers
 
 4. Feature Importance Analysis
 
-
-## Result:
-
-Obtained a random forest model with 0.5027472527472527 mean f1-score, and 0.8398391978046592 AUC score.
